@@ -1,1 +1,1 @@
-File contents include code that asks questions and gives answers based on the sender
+Click the file about and download the raw survey file! Uncompress it, and then run the survey!
